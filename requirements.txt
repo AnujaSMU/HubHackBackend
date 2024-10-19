@@ -1,0 +1,10 @@
+requests
+numpy
+pandas
+seaborn
+flask
+pymongo
+fastapi
+pydantic
+uvicorn
+python-dotenv
